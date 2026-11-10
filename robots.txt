@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://mustafajejsj-star.github.io/sitemap.xml
